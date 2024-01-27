@@ -15,7 +15,7 @@ path = u'C:\\Stuff\\Projects\\Video\\Wallpaper\\Quotes\\Background.jpg'
 save_path = 'C:\\Stuff\\Projects\\Video\\Wallpaper\\Quotes\\toSet.jpg'
 
 #City
-cityToSearch = "Gwalior"
+cityToSearch = "London"
 
 # extract key from the 
 # configuration file 
